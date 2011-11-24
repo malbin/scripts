@@ -1,6 +1,6 @@
 #!/bin/bash
 # ©2009 synapze
-# hacked for linux by jah
+# hacked up for linux by jah
 TUN=he-ipv6                         # tunnel device for IPv6 IP's
 EXCLUDE=""                      # IP's to exclude from vhost listing
 IFCONFIG=/sbin/ifconfig
